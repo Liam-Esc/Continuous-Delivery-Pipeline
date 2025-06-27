@@ -23,7 +23,7 @@ What This Project Does
 
   DOCUMENTATION
   
-![PowerShell Demo](cicd1.png)
+![PowerShell Demo](cicd project info/cicd1.png) 
 
 
 # AWS Elastic Beanstalk Node.js Sample App
