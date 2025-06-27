@@ -24,6 +24,26 @@ What This Project Does
   DOCUMENTATION
   
 ![CI/CD Screenshot](cicd%20project%20info/cicd1.png)
+![CI/CD Screenshot 2](cicd%20project%20info/cicd2.png)
+![CI/CD Screenshot 3](cicd%20project%20info/cicd3.png)
+![CI/CD Screenshot 4](cicd%20project%20info/cicd4.png)
+![CI/CD Screenshot 5](cicd%20project%20info/cicd5.png)
+![CI/CD Screenshot 6](cicd%20project%20info/cicd6.png)
+![CI/CD Screenshot 7](cicd%20project%20info/cicd7.png)
+![CI/CD Screenshot 8](cicd%20project%20info/cicd8.png)
+![CI/CD Screenshot 9](cicd%20project%20info/cicd9.png)
+![CI/CD Screenshot 10](cicd%20project%20info/cicd10.png)
+![CI/CD Screenshot 11](cicd%20project%20info/cicd11.png)
+![CI/CD Screenshot 12](cicd%20project%20info/cicd12.png)
+![CI/CD Screenshot 13](cicd%20project%20info/cicd13.png)
+![CI/CD Screenshot 14](cicd%20project%20info/cicd14.png)
+![CI/CD Screenshot 15](cicd%20project%20info/cicd15.png)
+![CI/CD Screenshot 16](cicd%20project%20info/cicd16.png)
+![CI/CD Screenshot 17](cicd%20project%20info/cicd17.png)
+![CI/CD Screenshot 18](cicd%20project%20info/cicd18.png)
+![CI/CD Screenshot 19](cicd%20project%20info/cicd19.png)
+![CI/CD Screenshot 20](cicd%20project%20info/cicd20.png)
+
 
 
 
