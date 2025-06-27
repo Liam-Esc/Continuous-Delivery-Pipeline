@@ -21,6 +21,11 @@ What This Project Does
 - Cloud-native application deployment
 - GitHub + AWS integration
 
+      #DOCUMENTATION
+![Screenshot 1](cicd1.jpg)
+![Screenshot 2](cicd2.jpg)
+
+
 # AWS Elastic Beanstalk Node.js Sample App
 
 This repository contains a sample Node.js web application built using [Express](https://expressjs.com/), meant to be used as part of the AWS DevOps Learning Path.
