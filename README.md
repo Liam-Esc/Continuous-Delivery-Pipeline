@@ -1,4 +1,4 @@
-#AWS Continuous Delivery Pipeline
+AWS Continuous Delivery Pipeline
 
 This project demonstrates how to build a complete CI/CD pipeline for a AWS web application using GitHub, AWS CodePipeline, AWS CodeBuild, and Elastic Beanstalk. The pipeline is triggered by changes to the GitHub repository, automatically building and deploying the latest code.
 
@@ -21,9 +21,9 @@ What This Project Does
 - Cloud-native application deployment
 - GitHub + AWS integration
 
-      #DOCUMENTATION
-![Screenshot 1](cicd1.jpg)
-![Screenshot 2](cicd2.jpg)
+  DOCUMENTATION
+  
+![PowerShell Demo](cicd1.png)
 
 
 # AWS Elastic Beanstalk Node.js Sample App
